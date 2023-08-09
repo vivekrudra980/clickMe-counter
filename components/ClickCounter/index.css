@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+}
+.button {
+  height: 36px;
+  width: 132px;
+  border-style: none;
+  border-radius: 6px;
+  color: white;
+  background-color: #007bff;
+}
